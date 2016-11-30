@@ -9,5 +9,7 @@ public class CaffineDetailsActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_caffine_details);
+
+        //WORK ON THIS
     }
 }
